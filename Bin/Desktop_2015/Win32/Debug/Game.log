@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (..\Bin\Desktop_2015\Win32\Debug\) contains files shared from another project (DirectXTKAudio_Desktop_2015_Win8.vcxproj, DirectXTK_Desktop_2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VBTerrain.cpp
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\libs\jsoncons\include\jsoncons\json_parser.hpp(148): warning C4003: not enough actual parameters for macro 'max'
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(312): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(313): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(317): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(319): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(321): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(324): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(326): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(328): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(212): warning C4101: 'height': unreferenced local variable
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(393): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(394): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\chip\desktop\uni work\simworlds\simworlds_assignment_2_terrain_generation\game\vbterrain.cpp(395): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+  Game.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Generating Code...
+  Game.vcxproj -> C:\Users\Chip\Desktop\Uni Work\SimWorlds\SimWorlds_Assignment_2_Terrain_Generation\Game\..\Bin\Desktop_2015\Win32\Debug\Game.lib

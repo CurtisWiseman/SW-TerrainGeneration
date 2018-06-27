@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  WICTextureLoader.cpp
+  VertexTypes.cpp
+  SpriteFont.cpp
+  PrimitiveBatch.cpp
+  SpriteBatch.cpp
+  SkinnedEffect.cpp
+  SimpleMath.cpp
+  ScreenGrab.cpp
+  NormalMapEffect.cpp
+  Mouse.cpp
+  ModelLoadVBO.cpp
+  ModelLoadSDKMESH.cpp
+  ModelLoadCMO.cpp
+  Model.cpp
+  Keyboard.cpp
+  GraphicsMemory.cpp
+  Geometry.cpp
+  GeometricPrimitive.cpp
+  GamePad.cpp
+  EnvironmentMapEffect.cpp
+  Generating Code...
+  Compiling...
+  EffectFactory.cpp
+  EffectCommon.cpp
+  BinaryReader.cpp
+  DualTextureEffect.cpp
+  DGSLEffectFactory.cpp
+  DGSLEffect.cpp
+  DDSTextureLoader.cpp
+  CommonStates.cpp
+  BasicEffect.cpp
+  AlphaTestEffect.cpp
+  Generating Code...
+  DirectXTK_Desktop_2015.vcxproj -> C:\Users\Chip\Desktop\Uni Work\SimWorlds\SimWorlds_Assignment_2_Terrain_Generation\Bin\Desktop_2015\Win32\Debug\DirectXTK.lib
